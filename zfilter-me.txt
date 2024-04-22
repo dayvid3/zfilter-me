@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! Title: zFilter Me
+! Expires: 1 days (update frequency)
+
+yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
+yandex.com##DIV[id="AdvMastHead_467016_141467"][class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
+www.amazon.com##DIV[class="_desktop-tall-big-screen-video-card_style_lazy-loaded-video__2OqXH _desktop-tall-big-screen-video-card_style_aspect-ratio-16x9__9AtM1 _desktop-tall-big-screen-video-card_style_stacking-context__31hbO"]
+reddit.com##[bundlename="desktop_rpl_nsfw_blocking_modal"]:remove()
+reddit.com#@#body:not(.with-listing-chooser):style(overflow: visible !important; position: static !important;)
+reddit.com#@#body:style(pointer-events: auto !important; overflow: auto !important;)
+reddit.com##body:style(overflow: auto !important;)
+sh.reddit.com,www.reddit.com##+js(trusted-set-local-storage-item, xpromo-consolidation, $currentDate$)
+@@||redditstatic.com^*/xads.js$script,domain=reddit.com
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.adLinkBar:upward(article[style="z-index: 1;"])
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.size-compact.Post:has([class*="promoted"])
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##div[id*="sidebar"][data-before-content="advertisement"]:upward(3)
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##div[class][data-before-content="advertisement"]:not([id])
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##div[class][data-before-content="Werbung"]:not([id])
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##[id^="t3"].promotedlink:upward(.rpBJOHq2PR60pnwJlUyP0 > div)
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.XPromoBlockingModal
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##xpromo-nsfw-blocking-modal
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.m-blurred:style(filter: none !important;)
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##xpromo-new-nsfw-blocking-modal
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##[style^="filter:"]:style(filter: none !important;)
