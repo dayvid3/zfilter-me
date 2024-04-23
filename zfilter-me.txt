@@ -5,7 +5,8 @@
 yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
 yandex.com##DIV[id="AdvMastHead_467016_141467"][class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
 !www.amazon.com##DIV[class="_desktop-tall-big-screen-video-card_style_lazy-loaded-video__2OqXH _desktop-tall-big-screen-video-card_style_aspect-ratio-16x9__9AtM1 _desktop-tall-big-screen-video-card_style_stacking-context__31hbO"]
-www.amazon.com##DIV[id="gw-desktop-herotator"][class="a-section a-spacing-none aok-relative tall gw-desktop-herotator-ready"]
+!www.amazon.com##DIV[id="gw-desktop-herotator"][class="a-section a-spacing-none aok-relative tall gw-desktop-herotator-ready"]
+www.amazon.com###pageContent > .celwidget
 reddit.com##[bundlename="desktop_rpl_nsfw_blocking_modal"]:remove()
 reddit.com#@#body:not(.with-listing-chooser):style(overflow: visible !important; position: static !important;)
 reddit.com#@#body:style(pointer-events: auto !important; overflow: auto !important;)
