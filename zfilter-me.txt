@@ -6,11 +6,6 @@ yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
 yandex.com##DIV[id="AdvMastHead_467016_141467"][class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
 www.amazon.com###pageContent > .celwidget
 reddit.com##.promotedlink
-||rereddit.com^
-redditsave.com##.container > center
-old.reddit.com##.native-ad-container
-reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.promotedlink:not([style^="height: 1px;"])
-reddit.com##div[data-before-content="advertisement"]
-reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##shreddit-comments-page-ad
-@@||reddit.com^$generichide
-@@||redditinc.com/assets/images/site/*_300x250.$image,~third-party
+||ad-delivery.net^
+||w3-reporting.reddit.com^
+||www.redditstatic.com/shreddit/sentry-94f7e90f.js$script,domain=www.reddit.com
