@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: zTest Filter Me
+! Expires: 1 days (update frequency)
+
+reddit.com##.promotedlink
+||alb.reddit.com^
+||ad-delivery.net^
+||w3-reporting.reddit.com^
+||www.redditstatic.com/shreddit/sentry-94f7e90f.js$script,domain=www.reddit.com
