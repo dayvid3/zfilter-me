@@ -3,7 +3,7 @@
 ! Expires: 1 days (update frequency)
 
 reddit.com##.promotedlink
-||ad-delivery.net^
-||alb.reddit.com^
-||w3-reporting.reddit.com^
-||www.redditstatic.com/shreddit/sentry-94f7e90f.js$script,domain=www.reddit.com
+!||ad-delivery.net^
+!||alb.reddit.com^
+!||w3-reporting.reddit.com^
+!||www.redditstatic.com/shreddit/sentry-94f7e90f.js$script,domain=www.reddit.com
