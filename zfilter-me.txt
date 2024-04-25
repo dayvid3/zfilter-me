@@ -10,4 +10,5 @@ reddit.com##.promotedlink
 ||ad-delivery.net^
 ||alb.reddit.com^
 ||w3-reporting.reddit.com^
+||w3-reporting-csp.reddit.com^
 ||www.redditstatic.com/shreddit/sentry-94f7e90f.js$script,domain=www.reddit.com
