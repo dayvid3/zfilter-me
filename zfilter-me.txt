@@ -5,7 +5,8 @@
 yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
 yandex.com##DIV[id="AdvMastHead_467016_141467"][class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
 www.amazon.com###pageContent > .celwidget
-reddit.com##.promotedlink
-||ad-delivery.net^
-||w3-reporting.reddit.com^
-||www.redditstatic.com/shreddit/sentry-94f7e90f.js$script,domain=www.reddit.com
+!reddit.com##.promotedlink:not([style^="height: 1px;"])
+!reddit.com##.promotedlink
+!||ad-delivery.net^
+!||w3-reporting.reddit.com^
+!||www.redditstatic.com/shreddit/sentry-94f7e90f.js$script,domain=www.reddit.com
