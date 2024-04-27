@@ -7,7 +7,7 @@ yandex.com##DIV[id="AdvMastHead_467016_141467"][class="hQyDtB8XGHiuuvEjM-hVwrwBs
 www.amazon.com###pageContent > .celwidget
 reddit.com##.promotedlink
 !reddit.com##.promotedlink:not([style^="height: 1px;"])
-||ad-delivery.net^
+!||ad-delivery.net^
 ||alb.reddit.com^
 ||w3-reporting.reddit.com^
 !||w3-reporting-csp.reddit.com^
