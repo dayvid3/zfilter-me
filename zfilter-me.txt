@@ -10,6 +10,6 @@ reddit.com##.promotedlink
 !||ad-delivery.net^
 ||alb.reddit.com^
 !||w3-reporting.reddit.com^
-!||w3-reporting-csp.reddit.com^
-!||redditstatic.com/shreddit/sentry-$from=reddit.com
+||w3-reporting-csp.reddit.com^
+||redditstatic.com/shreddit/sentry-$from=reddit.com
 !||www.redditstatic.com/shreddit/sentry-94f7e90f.js$script,domain=www.reddit.com
