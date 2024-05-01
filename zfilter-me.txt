@@ -9,6 +9,7 @@ reddit.com##.promotedlink
 reddit.com##.promotedlink:not([style^="height: 1px;"])
 ||ad-delivery.net^
 ||alb.reddit.com^
+||bugsnag.com^
 ||w3-reporting.reddit.com^
 ||w3-reporting-csp.reddit.com^
 ||redditstatic.com/shreddit/sentry-$from=reddit.com
