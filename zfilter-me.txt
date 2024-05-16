@@ -4,9 +4,11 @@
 
 www.amazon.com###pageContent > .celwidget
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
+fandom.com##.is-visible.fandom-sticky-header
 fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
 fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com##.page__right-rail
+fandom.com##.notifications-placeholder
 www.ign.com##.header
 www.ign.com##section.narrow-view.wiki-bobble
 nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
