@@ -12,6 +12,8 @@ fandom.com##DIV[id="featured-video__player-container"][class="featured-video-pla
 fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com##.page__right-rail
 fandom.com##.notifications-placeholder
+www.google.com##.TPKH4e.O4T6Pe
+www.google.com###taw
 www.homedepot.com###hero-carousel
 www.ign.com##.header
 www.ign.com##section.narrow-view.wiki-bobble
