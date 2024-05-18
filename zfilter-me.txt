@@ -5,6 +5,8 @@
 www.amazon.com###pageContent > .celwidget
 www.amazon.com###gw-content-grid > .gw-card-layout.a-spacing-none.a-section
 www.amazon.com###rhf-container > .rhf-border
+www.amazon.com##.celwidget.desktop.aplus-v2
+www.amazon.com###postsSameBrandCard_feature_div > .c-f.celwidget
 www.bestbuy.com##.media-network-ad.pushdown
 www.bestbuy.com##.primary-panel.nba-row-v2.full-bleed-row.row
 www.bestbuy.com##.row.lv.MemberDeals
