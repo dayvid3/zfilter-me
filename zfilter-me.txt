@@ -3,17 +3,23 @@
 ! Expires: 1 days (update frequency)
 
 www.amazon.com###pageContent > .celwidget
+www.bestbuy.com##.media-network-ad.pushdown
+www.bestbuy.com##.primary-panel.nba-row-v2.full-bleed-row.row
+www.bestbuy.com##.row.lv.MemberDeals
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
 fandom.com##.is-visible.fandom-sticky-header
 fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
 fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com##.page__right-rail
 fandom.com##.notifications-placeholder
+www.homedepot.com###hero-carousel
 www.ign.com##.header
 www.ign.com##section.narrow-view.wiki-bobble
 nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 reddit.com##.promotedlink
+www.target.com##.eqYIix.styles__ContentPoolContainer-sc-1ealqwt-0
 www.tvtime.com##.fc-dialog-container
+www.walmart.com##.center.w-100.main-content
 www.wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
 yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
 yandex.com##DIV[id="AdvMastHead_467016_141467"][class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
