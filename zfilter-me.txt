@@ -13,6 +13,7 @@ www.bestbuy.com##.row.lv.MemberDeals
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
 fandom.com##.is-visible.fandom-sticky-header
 fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
+fandom.com##.global-navigation
 fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com##.page__right-rail
 fandom.com##.notifications-placeholder
