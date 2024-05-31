@@ -20,7 +20,7 @@ fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com##.page__right-rail
 fandom.com##.notifications-placeholder
 fandom.com##.desktop-reply-create
-! Google Search Sponsored Results
+! Google Search Sponsored Results (Doesn't prevent the shopping interface. Just the normal sponsored search results)
 www.google.com###tvcap
 www.google.com###taw
 www.homedepot.com###hero-carousel
