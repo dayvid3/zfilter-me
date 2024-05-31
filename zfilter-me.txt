@@ -2,6 +2,7 @@
 ! Title: zFilter Me
 ! Expires: 1 days (update frequency)
 
+! Amazon Clutter
 www.amazon.com###pageContent > .celwidget
 www.amazon.com###gw-content-grid > .gw-card-layout.a-spacing-none.a-section
 www.amazon.com###rhf-container > .rhf-border
@@ -11,6 +12,7 @@ www.bestbuy.com##.media-network-ad.pushdown
 www.bestbuy.com##.primary-panel.nba-row-v2.full-bleed-row.row
 www.bestbuy.com##.row.lv.MemberDeals
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
+! Fandom Clutter
 fandom.com##.is-visible.fandom-sticky-header
 fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
 fandom.com##.global-navigation
@@ -18,12 +20,14 @@ fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com##.page__right-rail
 fandom.com##.notifications-placeholder
 fandom.com##.desktop-reply-create
+! Google Search Sponsored Results
 www.google.com###tvcap
 www.google.com###taw
 www.homedepot.com###hero-carousel
 www.ign.com##.header
 www.ign.com##section.narrow-view.wiki-bobble
 nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
+! Reddit Ads
 reddit.com##.promotedlink
 www.target.com##.eqYIix.styles__ContentPoolContainer-sc-1ealqwt-0
 www.tvtime.com##.fc-dialog-container
