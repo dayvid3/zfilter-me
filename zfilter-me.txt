@@ -12,6 +12,8 @@ www.bestbuy.com##.media-network-ad.pushdown
 www.bestbuy.com##.primary-panel.nba-row-v2.full-bleed-row.row
 www.bestbuy.com##.row.lv.MemberDeals
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
+! Anime Sites
+||pubadx.one^
 ! Fandom Clutter
 fandom.com##.is-visible.fandom-sticky-header
 fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
