@@ -29,7 +29,6 @@ www.google.com###taw
 www.homedepot.com###hero-carousel
 www.ign.com##.header
 www.ign.com##section.narrow-view.wiki-bobble
-nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 ! Reddit Ads
 reddit.com##.promotedlink
 www.target.com##.eqYIix.styles__ContentPoolContainer-sc-1ealqwt-0
