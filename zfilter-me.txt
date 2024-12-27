@@ -29,12 +29,16 @@ www.google.com###taw
 www.homedepot.com###hero-carousel
 www.ign.com##.header
 www.ign.com##section.narrow-view.wiki-bobble
-! Reddit Ads
+! Reddit
 reddit.com##.promotedlink
+! Walmart
 www.target.com##.eqYIix.styles__ContentPoolContainer-sc-1ealqwt-0
 www.tvtime.com##.fc-dialog-container
 www.walmart.com##.center.w-100.main-content
 www.wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
+! Yandex
 yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
 yandex.com##DIV[id="AdvMastHead_467016_141467"][class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
+! YouTube
 www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
+www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
