@@ -31,6 +31,7 @@ www.ign.com##.header
 www.ign.com##section.narrow-view.wiki-bobble
 ! Reddit
 reddit.com##.promotedlink
+www.reddit.com###right-rail-experience-root > faceplate-tracker
 ! Walmart
 www.target.com##.eqYIix.styles__ContentPoolContainer-sc-1ealqwt-0
 www.tvtime.com##.fc-dialog-container
