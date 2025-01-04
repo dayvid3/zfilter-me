@@ -48,6 +48,8 @@ walmart.com##.center.w-100.main-content
 !
 wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
 !
+wikipedia.org###pt-sitesupport-2 > [href^="https://donate.wikimedia.org/"] > span
+!
 yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
 yandex.com##DIV#AdvMastHead_467016_141467[class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
 !
