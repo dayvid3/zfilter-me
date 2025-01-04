@@ -43,3 +43,6 @@ yandex.com##DIV[id="AdvMastHead_467016_141467"][class="hQyDtB8XGHiuuvEjM-hVwrwBs
 ! YouTube
 www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
+! MISC
+afi.com##.fun-social-proof-iframe
+afi.com##.bg-pattern.bg-color.txt-highlight-color
