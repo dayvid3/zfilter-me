@@ -17,11 +17,6 @@ bestbuy.com##.media-network-ad.pushdown
 bestbuy.com##.primary-panel.nba-row-v2.full-bleed-row.row
 bestbuy.com##.row.lv.MemberDeals
 !
-crunchyroll.com###\30 1JGS4WPK4A4DN5E57YG89HYJV
-crunchyroll.com###\30 1JGS4WPK4Q6QB3MMCARD5C1PJ
-crunchyroll.com###\30 1JGS4WPK61T5ABW83SB58DPMW
-crunchyroll.com###\30 1JGS4WPK4SAT04D3D9NGGV3ZG
-crunchyroll.com###\30 1JGS4WPK8DTRQ0W3QW4J34BG4
 crunchyroll.com##.news-and-editorial--7Xuhv
 !
 deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
