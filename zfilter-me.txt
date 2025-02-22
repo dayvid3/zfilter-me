@@ -40,6 +40,8 @@ twitch.tv##+js(twitch-videoad)
 ||twitch.tv/videoad
 twitch.tv##[data-a-target=prime-offers-icon]
 twitch.tv##[data-a-target=try-prime-link]
+twitch.tv##[data-a-target*=get-bits-button]
+twitch.tv##[data-a-target=bits-button]
 twitch.tv##.prime-offers__pill
 twitch.tv##div.tw-mg-b-2:has(div[data-test-selector=prime-sub-upsell])
 walmart.com##.center.w-100.main-content
