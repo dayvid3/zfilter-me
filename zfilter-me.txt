@@ -3,24 +3,18 @@
 ! Expires: 1 days (update frequency)
 
 ||pubadx.one^
-!
 afi.com##.fun-social-proof-iframe
 afi.com##.bg-pattern.bg-color.txt-highlight-color
-!
 amazon.com###pageContent > .celwidget
 amazon.com###gw-content-grid > .gw-card-layout.a-spacing-none.a-section
 amazon.com###rhf-container > .rhf-border
 amazon.com##.celwidget.desktop.aplus-v2
 amazon.com###postsSameBrandCard_feature_div > .c-f.celwidget
-!
 bestbuy.com##.media-network-ad.pushdown
 bestbuy.com##.primary-panel.nba-row-v2.full-bleed-row.row
 bestbuy.com##.row.lv.MemberDeals
-!
 crunchyroll.com##.news-and-editorial--7Xuhv
-!
 deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
-!
 fandom.com##.is-visible.fandom-sticky-header
 fandom.com##DIV#featured-video__player-container[class="featured-video-player-container"]
 fandom.com##.global-navigation
@@ -33,27 +27,25 @@ fandom.com##.unified-search__layout__main > div
 ! Google Search Sponsored Results (Doesn't prevent the shopping interface. Just the normal sponsored search results)
 google.com###tvcap
 google.com###taw
-!
 homedepot.com###hero-carousel
-!
 ign.com##.header
 ign.com##section.narrow-view.wiki-bobble
-!
 reddit.com##.promotedlink
 reddit.com###right-rail-experience-root > faceplate-tracker
-!
 target.com##.eqYIix.styles__ContentPoolContainer-sc-1ealqwt-0
-!
 tvtime.com##.fc-dialog-container
-!
+twitch.tv##+js(twitch-videoad)
+! @@||twitch.tv/videoad^$important
+! @@||twitch.tv/videoad
+||twitch.tv/videoad
+twitch.tv##[data-a-target=prime-offers-icon]
+twitch.tv##[data-a-target=try-prime-link]
+twitch.tv##.prime-offers__pill
+twitch.tv##div.tw-mg-b-2:has(div[data-test-selector=prime-sub-upsell])
 walmart.com##.center.w-100.main-content
-!
 wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
-!
 wikipedia.org###pt-sitesupport-2 > [href^="https://donate.wikimedia.org/"] > span
-!
 yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
 yandex.com##DIV#AdvMastHead_467016_141467[class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
-!
 youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
