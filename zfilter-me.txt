@@ -46,7 +46,6 @@ twitch.tv##.prime-offers__pill
 twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0:nth-of-type(6)
 twitch.tv##div.tw-mg-b-2:has(div[data-test-selector=prime-sub-upsell])
 twitch.tv##.extension-taskbar-card-container:has(img[src*=".ext-twitch.tv/"][src*="/internal/taskbar-icon/"][src$="/636647020003385346.png"])
-twitch.tv##.extension-taskbar-card-container:has(img[src*=".ext-twitch.tv/"][src*="/internal/taskbar-icon/"][src$="/636647020003385346.png"])
 twitch.tv##.extensions-dock__layout:has([title$="Loot Reminder"])
 walmart.com##.center.w-100.main-content
 wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
