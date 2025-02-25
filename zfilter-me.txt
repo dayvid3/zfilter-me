@@ -44,5 +44,11 @@ wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
 wikipedia.org###pt-sitesupport-2 > [href^="https://donate.wikimedia.org/"] > span
 yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
 yandex.com##DIV#AdvMastHead_467016_141467[class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
+youtube.com###masthead-ad
+youtube.com###player-ads
 youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
+youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
+youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#shorts)))
+youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
+youtube.com##ytd-mini-guide-entry-renderer:has-text(Shorts)
