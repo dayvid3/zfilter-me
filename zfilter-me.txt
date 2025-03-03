@@ -48,7 +48,7 @@ yandex.com##DIV#AdvMastHead_467016_141467[class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2
 ! youtube.com###player-ads
 youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
-youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
+! youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
 ! Hide all videos with the shorts indicator on the thumbnail
 youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
 youtube.com##ytd-rich-item-renderer:has([overlay-style="SHORTS"])
