@@ -5,6 +5,7 @@
 ||pubadx.one^
 afi.com##.fun-social-proof-iframe
 afi.com##.bg-pattern.bg-color.txt-highlight-color
+! Amazon
 amazon.com###pageContent > .celwidget
 amazon.com###gw-content-grid > .gw-card-layout.a-spacing-none.a-section
 amazon.com###rhf-container > .rhf-border
@@ -13,35 +14,51 @@ amazon.com###postsSameBrandCard_feature_div > .c-f.celwidget
 bestbuy.com##.media-network-ad.pushdown
 bestbuy.com##.primary-panel.nba-row-v2.full-bleed-row.row
 bestbuy.com##.row.lv.MemberDeals
+! Crunchyroll
 crunchyroll.com##.news-and-editorial--7Xuhv
+! DeviantArt
 deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
-fandom.com##.is-visible.fandom-sticky-header
-fandom.com##DIV#featured-video__player-container[class="featured-video-player-container"]
-fandom.com##.global-navigation
-fandom.com##.wikia-bar-anon.wikia-bar
+! Fandom.com
+fandom.com##.top-ads-container
 fandom.com##.page__right-rail
+fandom.com##.mw-parser-output.mw-content-ltr > .gpt-ad
+fandom.com##.main-page-tag-rcs > .ad-slot.gpt-ad
+fandom.com##.orientation-bottom.fandom-slider
+fandom.com##.isNotScrollPlayer.featured-video-player-container
+fandom.com##DIV#featured-video__player-container[class="featured-video-player-container"]
 fandom.com##.notifications-placeholder
+fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com##.desktop-reply-create
 fandom.com##.unified-search__layout__main > div
 !
 ! Google Search Sponsored Results (Doesn't prevent the shopping interface. Just the normal sponsored search results)
 google.com###tvcap
 google.com###taw
+! Home Depot
 homedepot.com###hero-carousel
+! IGN
 ign.com##.header
 ign.com##section.narrow-view.wiki-bobble
+! Reddit
 reddit.com##.promotedlink
 reddit.com###right-rail-experience-root > faceplate-tracker
+! Target
 target.com##.eqYIix.styles__ContentPoolContainer-sc-1ealqwt-0
+! TV Time
 tvtime.com##.fc-dialog-container
+! Twitch
 twitch.tv##+js(twitch-videoad)
 ! @@||twitch.tv/videoad^$important
 ! @@||twitch.tv/videoad
 ||twitch.tv/videoad
 twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0:nth-of-type(6)
+! Walmart
 walmart.com##.center.w-100.main-content
+! WCO
 wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
+! Wikipedia
 wikipedia.org###pt-sitesupport-2 > [href^="https://donate.wikimedia.org/"] > span
+! Yandex
 yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
 yandex.com##DIV#AdvMastHead_467016_141467[class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
 youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
