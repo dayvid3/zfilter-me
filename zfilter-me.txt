@@ -20,6 +20,7 @@ crunchyroll.com##.news-and-editorial--7Xuhv
 deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
 ! Fandom.com
 fandom.com##.top-ads-container
+fandom.com##.is-visible.fandom-sticky-header
 fandom.com##.page__right-rail
 fandom.com##.mw-parser-output.mw-content-ltr > .gpt-ad
 fandom.com##.main-page-tag-rcs > .ad-slot.gpt-ad
