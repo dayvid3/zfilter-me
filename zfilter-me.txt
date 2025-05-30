@@ -62,5 +62,6 @@ wikipedia.org###pt-sitesupport-2 > [href^="https://donate.wikimedia.org/"] > spa
 ! Yandex
 yandex.com##.dcyWiWwv1GzZx4EVS-dZwa_Wg3CPTZp6EJZRrA
 yandex.com##DIV#AdvMastHead_467016_141467[class="hQyDtB8XGHiuuvEjM-hVwrwBsPxOCu2tE_H3Xs"]
-! YouTube
+! YouTube - Hide Shorts / People also watched
 youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope
