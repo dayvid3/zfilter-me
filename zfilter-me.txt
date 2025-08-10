@@ -47,12 +47,6 @@ reddit.com###right-rail-experience-root > faceplate-tracker
 target.com##.eqYIix.styles__ContentPoolContainer-sc-1ealqwt-0
 ! TV Time
 tvtime.com##.fc-dialog-container
-! Twitch
-twitch.tv##+js(twitch-videoad)
-! @@||twitch.tv/videoad^$important
-! @@||twitch.tv/videoad
-||twitch.tv/videoad
-twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0:nth-of-type(6)
 ! Walmart
 walmart.com##.center.w-100.main-content
 ! WCO
