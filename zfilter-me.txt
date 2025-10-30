@@ -11,6 +11,8 @@ amazon.com###gw-content-grid > .gw-card-layout.a-spacing-none.a-section
 amazon.com###rhf-container > .rhf-border
 amazon.com##.celwidget.desktop.aplus-v2
 amazon.com###postsSameBrandCard_feature_div > .c-f.celwidget
+amazon.com###nav-swmslot
+! amazon.com##.nav-swm-countdown-wrapper
 bestbuy.com##.media-network-ad.pushdown
 bestbuy.com##.primary-panel.nba-row-v2.full-bleed-row.row
 bestbuy.com##.row.lv.MemberDeals
